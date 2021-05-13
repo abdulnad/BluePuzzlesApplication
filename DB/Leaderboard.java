@@ -9,9 +9,9 @@ import java.util.*;
 
 public class Leaderboard {
 
-    private static String url = "jdbc:mysql://bluepuzzles.c6g1bhjsrnsm.us-east-2.rds.amazonaws.com/BLUE_PUZZLES";
+    private static String url = "[*****]";
     private static String username = "bluepuzzles";
-    private static String password = "bluepuzzles123";
+    private static String password = "[*****]"; //For the sake of the github repo, this is censored
 
     public static void insertNewUser(String game, String newUser, String newTime, String Difficulty) throws SQLException {
         try {
