@@ -7,9 +7,9 @@ import java.util.ArrayList;
 
 public class TimeAttackLeaderboard {
 
-    private static String url = "jdbc:mysql://bluepuzzles.c6g1bhjsrnsm.us-east-2.rds.amazonaws.com/BLUE_PUZZLES";
+    private static String url = "[****]";
     private static String username = "bluepuzzles";
-    private static String password = "bluepuzzles123";
+    private static String password = "[****]"; //Censored for sake of public repo
 
     public static void insertNewUser(String user, int points) throws SQLException {
         try {
