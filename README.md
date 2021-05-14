@@ -11,7 +11,8 @@ This project showcases my understanding of GUIs (javaFX), database implementatio
 
 My application validates and hashesh passwords to improve security.
 
-![ValidatePassword](![image](https://user-images.githubusercontent.com/53980282/118326433-f87cea80-b4d2-11eb-9262-a42adde92fbe.png)
+![ValidatePassword](https://user-images.githubusercontent.com/53980282/118326471-05014300-b4d3-11eb-8488-6d4f2c84a1e0.png)
+
 
 
 
