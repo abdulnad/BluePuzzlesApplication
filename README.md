@@ -11,7 +11,7 @@ This project showcases my understanding of GUIs (javaFX), database implementatio
 
  My appliation validates Username and password. 
  There are requirements for passwords
-<img src="https://user-images.githubusercontent.com/53980282/118326471-05014300-b4d3-11eb-8488-6d4f2c84a1e0.png" alt="drawing" width="200"/>
+<img src="https://user-images.githubusercontent.com/53980282/118326471-05014300-b4d3-11eb-8488-6d4f2c84a1e0.png" alt="drawing" width="400"/>
 
 
 
