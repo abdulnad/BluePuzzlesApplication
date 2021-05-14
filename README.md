@@ -13,6 +13,8 @@ My application validates and hashesh passwords to improve security.
 
 ![ValidatePassword](https://user-images.githubusercontent.com/53980282/118326471-05014300-b4d3-11eb-8488-6d4f2c84a1e0.png)
 
+<img src="https://user-images.githubusercontent.com/53980282/118326471-05014300-b4d3-11eb-8488-6d4f2c84a1e0.png" alt="drawing" width="200"/>
+
 
 
 
