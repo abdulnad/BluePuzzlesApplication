@@ -27,3 +27,9 @@ The Game Select Screen has 6 options to play 6 different puzzles games. When hov
 
 ![GameSelectGIF](https://media.giphy.com/media/NZhvvL0MF59Dip507W/giphy.gif)
 
+## **Hangman**
+
+The rules of hangman are simple, you have to guess the word by guessing each individual letter or guessing the world word. Get a wrong guess and you lose a life, one six lives are lost, the game is over.
+
+<img src="https://media.giphy.com/media/DsZqGZn2btEkPVkqdl/giphy.gif" alt="drawing" width="400"/>
+
