@@ -1,4 +1,4 @@
-# **Button Combo Puzzle**
+# **Blue Puzzles**
 
 This application is an application where you can create an account, play puzzles games, and view yours and other players' high scores!
 
