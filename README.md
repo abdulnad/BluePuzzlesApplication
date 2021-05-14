@@ -21,4 +21,9 @@ This is the main menu where a player can choose to play, view the leaderboards, 
 
 <img src="https://i.imgur.com/52EmWBe.png" alt="drawing" width="400"/>
 
+## **Game Select**
+
+The Game Select Screen has 6 options to play 6 different puzzles games. When hovered over them, they show instructions on how to play as well as pictures of their respective icons.
+
+![GameSelectGIF](https://media.giphy.com/media/NZhvvL0MF59Dip507W/giphy.gif)
 
