@@ -7,7 +7,7 @@ This application is an application where you can create an account, play puzzles
 This project showcases my understanding of GUIs (javaFX), database implementation (mySQL), object orientated programming, game creation, and MVC implementation.
 
 ## **Sign Up Page**
-![SignUpScreen]<img src="https://i.imgur.com/vTGChS4.png" alt="drawing" width="400"/>
+<img src="https://i.imgur.com/vTGChS4.png" alt="drawing" width="400"/>
 
 My appliation validates Username and password. 
 There are requirements for passwords
