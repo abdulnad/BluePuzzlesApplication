@@ -23,7 +23,7 @@ This is the main menu where a player can choose to play, view the leaderboards, 
 
 ## **Game Select**
 
-The Game Select Screen has 6 options to play 6 different puzzles games. When hovered over them, they show instructions on how to play as well as pictures of their respective icons.
+The Game Select Screen has 6 options to play 6 different puzzles games. When hovered over them, they show instructions on how to play as well as pictures of their respective icons. Each game has a timer as well.
 
 ![GameSelectGIF](https://media.giphy.com/media/NZhvvL0MF59Dip507W/giphy.gif)
 
@@ -32,4 +32,14 @@ The Game Select Screen has 6 options to play 6 different puzzles games. When hov
 The rules of hangman are simple, you have to guess the word by guessing each individual letter or guessing the world word. Get a wrong guess and you lose a life, one six lives are lost, the game is over.
 
 <img src="https://media.giphy.com/media/DsZqGZn2btEkPVkqdl/giphy.gif" alt="drawing" width="320"/> <img src="https://media.giphy.com/media/Y235ghC4h6wBbdUGgb/giphy.gif" alt="drawing" width="320"/> <img src="https://media.giphy.com/media/LdAUgGNWEIn8DMhTwU/giphy.gif" alt="drawing" length = "300" width="320"/>
+
+## **Sudoku**
+
+Sudoku is a puzzle game where deduction and trial and error is involved. Each row, column, grid has an array of numbers from 1-9 where no numbers can repeat. It is the user's goal to put a number in each box that correclty fits in into its respective grid, row, and column. Sudoku's difficulty determines how many boxes have default values in them already.
+
+<img src="https://media.giphy.com/media/oHlIHNcFVrPg0TrGxa/giphy.gif" alt="drawing" length = "300" width="320"/> <img src="https://media.giphy.com/media/pLBvWPoPyW74fEwkeW/giphy.gif" alt="drawing" length = "300" width="320"/>
+
+
+
+
 
