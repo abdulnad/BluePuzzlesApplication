@@ -43,7 +43,7 @@ Sudoku is a puzzle game where deduction and trial and error is involved. Each ro
 
 Jigsaw is a game involving moving and rotating individual pieces of a picture to form it into one whole picture. The player can pick up pieces, swap them with another piece, or rotate them by pressing 'R'. Depending on the difficulty, there are a certain amount of peices. In Easy, there are only 4 peices, 2x2. In medium, there are 9 pieces, 3x3. And in hard, there are 16 pieces, 4x4.
 
-<img src="https://media.giphy.com/media/tWwmRArYldvubaI5lG/giphy.gif" alt="drawing" length = "300" width="320"/> <img src="https://media.giphy.com/media/pWG8D6CqFCyxQezAGW/giphy.gif" alt="drawing" length = "300" width="320"/> <img src="https://media.giphy.com/media/tWwmRArYldvubaI5lG/giphy.gif" alt="drawing" length = "300" width="320"/>
+<img src="https://media.giphy.com/media/tWwmRArYldvubaI5lG/giphy.gif" alt="drawing" length = "300" width="320"/> <img src="https://media.giphy.com/media/pWG8D6CqFCyxQezAGW/giphy.gif" alt="drawing" length = "300" width="320"/> <img src="hhttps://media.giphy.com/media/3X2SuxDay8xrAK0D9G/giphy.gif" alt="drawing" length = "300" width="320"/>
 
 
 
