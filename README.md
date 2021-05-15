@@ -39,6 +39,13 @@ Sudoku is a puzzle game where deduction and trial and error is involved. Each ro
 
 <img src="https://media.giphy.com/media/oHlIHNcFVrPg0TrGxa/giphy.gif" alt="drawing" length = "300" width="320"/> <img src="https://media.giphy.com/media/pLBvWPoPyW74fEwkeW/giphy.gif" alt="drawing" length = "300" width="320"/>
 
+## **Jigsaw**
+
+Jigsaw is a game involving moving and rotating individual pieces of a picture to form it into one whole picture. The player can pick up pieces, swap them with another piece, or rotate them by pressing 'R'.
+
+<img src="https://media.giphy.com/media/tWwmRArYldvubaI5lG/giphy.gif" alt="drawing" length = "300" width="320"/>
+
+
 
 
 
