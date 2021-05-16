@@ -65,6 +65,7 @@ Time Attack combines all the puzzle games and simplifies them. The player has 10
 
 ## **Leaderboard**
 
+<img src="https://i.imgur.com/hzqKt6u.png" alt="drawing" length = "400" width="400"/> <img src="https://media.giphy.com/media/tPZ8uEazIGXixqcbqA/giphy.gif" alt="drawing" length = "400" width="400"/>
 
 
 
