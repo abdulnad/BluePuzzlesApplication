@@ -51,6 +51,14 @@ Tents is a very interesting puzzle game as it involves placingr the correct numb
 
 <img src="https://media.giphy.com/media/V3yIZ2M2qyZGaJniBq/giphy.gif" alt="drawing" length = "300" width="320"/> <img src="https://media.giphy.com/media/7M7CL0u1QQhf52M5rg/giphy.gif" alt="drawing" length = "300" width="320"/> 
 
+## **Memory**
+
+Memory is pretty self-explanatory. The player must flip cards until all cards are matched with their respective pairs. The player can only flip two cards at time. The player is also given free flips. Once the free flips are up, 5 seconds will be added automatically for every wrong flip.
+
+<img src="https://media.giphy.com/media/J6gkx37WdJylSIQR1a/giphy.gif" alt="drawing" length = "300" width="320"/> <img src="https://media.giphy.com/media/w9kZD3hD87kJLXJirk/giphy.gif" alt="drawing" length = "300" width="320"/>
+
+
+
 
 
 
