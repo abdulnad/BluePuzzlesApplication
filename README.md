@@ -37,7 +37,7 @@ The rules of hangman are simple, you have to guess the word by guessing each ind
 
 Sudoku is a puzzle game where deduction and trial and error is involved. Each row, column, grid has an array of numbers from 1-9 where no numbers can repeat. It is the user's goal to put a number in each box that correclty fits in into its respective grid, row, and column. Sudoku's difficulty determines how many boxes have default values in them already.
 
-<img src="https://media.giphy.com/media/oHlIHNcFVrPg0TrGxa/giphy.gif" alt="drawing" length = "300" width="320"/> <img src="https://media.giphy.com/media/pLBvWPoPyW74fEwkeW/giphy.gif" alt="drawing" length = "300" width="320"/>
+<img src="https://media.giphy.com/media/oHlIHNcFVrPg0TrGxa/giphy.gif" alt="drawing" length = "300" width="400"/> <img src="https://media.giphy.com/media/pLBvWPoPyW74fEwkeW/giphy.gif" alt="drawing" length = "300" width="400"/>
 
 ## **Jigsaw**
 
@@ -49,7 +49,7 @@ Jigsaw is a game involving moving and rotating individual pieces of a picture to
 
 Tents is a very interesting puzzle game as it involves placingr the correct number of tents in each row and column. A tent needs to be next to a tree and must have the correct number of tentes according to the number associated with the row/column.
 
-<img src="https://media.giphy.com/media/V3yIZ2M2qyZGaJniBq/giphy.gif" alt="drawing" length = "300" width="320"/> <img src="https://media.giphy.com/media/7M7CL0u1QQhf52M5rg/giphy.gif" alt="drawing" length = "300" width="320"/> 
+<img src="https://media.giphy.com/media/V3yIZ2M2qyZGaJniBq/giphy.gif" alt="drawing" length = "300" width="400"/> <img src="https://media.giphy.com/media/7M7CL0u1QQhf52M5rg/giphy.gif" alt="drawing" length = "300" width="400"/> 
 
 ## **Memory**
 
@@ -61,7 +61,9 @@ Memory is pretty self-explanatory. The player must flip cards until all cards ar
 
 Time Attack combines all the puzzle games and simplifies them. The player has 10 seconds to complete each game. The game is infinite, the goal is to acheive your best personal score.
 
+<img src="https://media.giphy.com/media/8mUKfje4wzgk4aRD0q/giphy.gif" alt="drawing" length = "400" width="400"/> <img src="https://media.giphy.com/media/h1gQjiEnZBZTJqkakj/giphy.gif" alt="drawing" length = "400" width="400"/>
 
+## **Leaderboard**
 
 
 
