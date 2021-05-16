@@ -65,6 +65,8 @@ Time Attack combines all the puzzle games and simplifies them. The player has 10
 
 ## **Leaderboard**
 
+My application is connected to a mySQL database. All times and scores are recored into the database which is then extracted to the application when viewing the leaderboards.
+
 <img src="https://i.imgur.com/hzqKt6u.png" alt="drawing" length = "400" width="400"/> <img src="https://media.giphy.com/media/tPZ8uEazIGXixqcbqA/giphy.gif" alt="drawing" length = "400" width="400"/>
 
 
