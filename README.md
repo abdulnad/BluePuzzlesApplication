@@ -45,7 +45,11 @@ Jigsaw is a game involving moving and rotating individual pieces of a picture to
 
 <img src="https://media.giphy.com/media/tWwmRArYldvubaI5lG/giphy.gif" alt="drawing" length = "300" width="320"/> <img src="https://media.giphy.com/media/pWG8D6CqFCyxQezAGW/giphy.gif" alt="drawing" length = "300" width="320"/> <img src="https://media.giphy.com/media/3X2SuxDay8xrAK0D9G/giphy.gif" alt="drawing" length = "300" width="320"/>
 
+## **Tents**
 
+Tents is a very interesting puzzle game as it involves placingr the correct number of tents in each row and column. A tent needs to be next to a tree and must have the correct number of tentes according to the number associated with the row/column.
+
+<img src="https://media.giphy.com/media/V3yIZ2M2qyZGaJniBq/giphy.gif" alt="drawing" length = "300" width="320"/> <img src="https://media.giphy.com/media/7M7CL0u1QQhf52M5rg/giphy.gif" alt="drawing" length = "300" width="320"/> 
 
 
 
