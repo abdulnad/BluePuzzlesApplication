@@ -71,7 +71,7 @@ public class UserAccount {
             ResultSet result = statement.executeQuery(); //Initializing all users into result
             while (result.next()) {
                 if (result.getString("UserName").equals(user)) {
-                    String inputPassword = AES.encrypt(pass, "allme");
+                    String inputPassword = AES.encrypt(pass, "*****");//censored
                     String dePass = result.getString("Password");
                     if (dePass.equals(inputPassword))
                         return true;
